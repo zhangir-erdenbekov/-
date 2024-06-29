@@ -1,0 +1,353 @@
+body{
+background: white;
+width: 1340px;
+height: 1409px;
+top: 43px;
+left: 45px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+
+}
+.headstick{
+    width: 1328px;
+    height: 1px;
+    margin-top: 50px;
+    left: 57px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1px solid #F6F6F6; 
+}
+.headtext{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 350px;
+    height: 48px;
+    margin-top: 92px;
+    margin-left: 122px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.text-head{
+    font-family: 'Proxima Nova';
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 29.23px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    width: 300px;
+    height: 29px;
+    top: 92px;
+    left: 177px;
+    gap: 0px;
+    opacity: 0px;    
+}
+.text-head2{
+    font-family: 'Proxima Nova';
+    padding-top: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.49px;
+    text-align: left;
+    width: 261px;
+    height: 19px;
+    top: 121px;
+    left: 177px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.img{
+    width: 38px;
+    height: 38px;
+    top: 97px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.button{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 150px;
+    height: 50px;
+    margin-left: 1197px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px;
+    background-color: #FE5F1E;
+    margin-top: 20px;    
+}
+.buttontext{
+    width: 20px;
+    height: 19px;
+    padding-top: 15px;
+    padding-left: 20px;
+    gap: 0px;
+    opacity: 0px;    
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.49px;
+    text-align: left;
+    color: #ffffff;
+}
+.buttontext2{
+    width: 1px;
+    height: 2px;
+    padding-top: 15px;
+    padding-left: 45px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;  
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    color: #ffffff;
+}
+.imgbut{
+width: 16px;
+height: 16px;
+padding-top: 17px;
+padding-left: 20px;
+gap: 0px;
+opacity: 0px;
+}
+.buttonmenu{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 1225px;
+height: 46px;
+margin-top: 60px;
+margin-left: 112px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;  
+}
+.buttonmenubut{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+flex-wrap: wrap;
+width: 827.9px;
+height: 46px;
+gap: 0px;
+border-radius: 30px 30px 30px 30px;
+opacity: 0px;
+}
+.buttonmenu1{
+width: 82.11px;
+height: 46px;
+top: 221px;
+left: 112px;
+gap: 0px;
+border-radius: 30px 30px 30px 30px;
+opacity: 0px; 
+background-color: black;
+color: white;
+}
+.buttonmenu2{
+    width: 107.37px;
+    height: 46px;
+    top: 221px;
+    left: 203.05px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px; 
+    background-color: #F9F9F9;
+    color: black;
+    border-color: #F9F9F9;
+}
+.buttonmenu3{
+    width: 195.79px;
+    height: 46px;
+    top: 221px;
+    left: 203.05px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px; 
+    background-color: #F9F9F9;
+    color: black;
+    border-color: #F9F9F9;
+}
+.buttonmenu4{
+    width: 107.37px;
+    height: 46px;
+    top: 221px;
+    left: 203.05px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px; 
+    background-color: #F9F9F9;
+    color: black;
+    border-color: #F9F9F9;
+}
+.buttonmenu5{
+    width: 120px;
+    height: 46px;
+    top: 221px;
+    left: 203.05px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px; 
+    background-color: #F9F9F9;
+    color: black;
+    border-color: #F9F9F9;
+}
+.buttonmenu6{
+    width: 140px;
+    height: 46px;
+    top: 221px;
+    left: 203.05px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    opacity: 0px; 
+    background-color: #F9F9F9;
+    color: black;
+    border-color: #F9F9F9;
+}
+.buttonmenusortbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    width: 224px;
+    height: 46px;
+    top: 234px;
+    padding-left: 160px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    font-family: 'Proxima Nova';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17.05px;
+    letter-spacing: 0.015em;
+}
+.buttonmenusortboxtext{
+color: #FE5F1E;
+}
+.pizzacart{
+justify-content: space-between;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+margin-left: 75px;
+padding-top: 30px;
+width: 1300px;
+height: 1300px;
+}
+.pizzacartbox{
+align-content: center;
+display: flex;
+flex-direction: column;
+flex-wrap: nowrap;
+width: 280px;
+height: 459px;
+padding-left: 20px;
+gap: 0px;
+opacity: 0px;
+}
+.imgpizza{
+width: 260px;
+height: 260px;
+padding-left: 10px;
+}
+.textpizzaname{
+padding-top: 10px;
+align-items: center;
+padding-left: 50px;
+width: fit-content;
+height: fit-content;
+gap: 0px;
+opacity: 0px;
+font-family: 'Proxima Nova';
+font-size: 20px;
+font-weight: 800;
+line-height: 24.36px;
+letter-spacing: 0.01em;
+}
+.pizzainfo{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+width: 260px;
+height: 85px;
+padding-top: 10px;
+padding-left: 10px;
+gap: 0px;
+opacity: 0px;
+background: #F3F3F3;
+border-radius: 10px;
+}
+.pizzaheight{
+width: 100px;
+height: 32px;
+padding-left: 10px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+opacity: 0px;   
+background: white;
+}
+.pizzaheighttext{
+font-family: 'Proxima Nova';
+width: fit-content;
+height: fit-content;
+line-height: 17.05px;
+letter-spacing: 0.015em;
+padding-left: 20px;
+padding-top: 6px;
+align-content: center;
+}
+.pizzatype{
+width: 100px;
+height: 32px;
+padding-left: 10px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+opacity: 0px;   
+align-content: center;
+}
+.pizzatypetext{
+    font-family: 'Proxima Nova';
+    width: 100px;
+    height: max-content;
+}
+.pizzabox1{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 360px;
+    height: 68px;
+}
+.pizzamm{
+    width: 40px;
+    height: 20px;
+    gap: 0px;
+    padding-top: 0px;
+    border-radius: 5px 5px 5px 5px;
+    opacity: 0px;
+    font-family: 'Proxima Nova';
+    background: white;
+}
+.buy{
+    padding-top: 10px;
+    font-family: 'Proxima Nova';
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26.8px;
+    letter-spacing: 0.015em;
+    
+}
+.buybutton{
+    font-family: 'Proxima Nova';
+    width: max-content;
+    height: max-content;
+    border: 2px solid #EB5A1E;
+    border-radius: 30px;
+    color: #FE5F1E;
+}
